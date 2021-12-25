@@ -20,34 +20,29 @@
     1       Arduino plate
 
 ### IndigoInstruments.com
-    Qty     Description                                             Part #          Unit Price
-    24      Rod magnet, D5 x 7.5mm, Nd rare earth, N42              44201-7.5       $0.44
+    Qty     Description                                             Part #          Unit Price      Purchased
+    24      Rod magnet, D5 x 7.5mm, Nd rare earth, N42              44201-7.5       $1.12           Yes
 
 ### McMaster-Carr
     Socket Bolts:
-    Qty     Description     Long Description:                               Part #     Unit Price
-    5       4-40 1/2 in     Black-Oxide Alloy Steel Socket Head Cap Screw   91251A110   $8.34 per pack of 100
-    6       6-32 3/4 in     Black-Oxide Alloy Steel Socket Head Cap Screw   91251A151   $8.50 per pack of 100
-    30      10-32 7/8 in    Black-Oxide Alloy Steel Socket Head Cap Screw   91251A346   $6.68 per pack of 100
-    4       10-32 1 in      Black-Oxide Alloy Steel Socket Head Cap Screw   91251A347   $8.85 per pack of 50
-    ?       #10 Washer      For #10 Screw, 18-8 Stainless Steel Washer      92141A011   $2.30 per pack of 100
-    ?       #6 Washer       For #6 Screw, 18-8 Stainless Steel Washer       92141A008   $1.17 per pack of 100
+    Qty     Description     Long Description:                               Part #     Unit Price                 Purchased
+    5       4-40 1/2 in     Black-Oxide Alloy Steel Socket Head Cap Screw   91251A110   $10.97 per pack of 100    Yes
+    6       6-32 3/4 in     Black-Oxide Alloy Steel Socket Head Cap Screw   91251A151   $11.18 per pack of 100    Yes
+    30      10-32 7/8 in    Black-Oxide Alloy Steel Socket Head Cap Screw   91251A346   $8.00 per pack of 100     Yes
+    4       10-32 1 in      Black-Oxide Alloy Steel Socket Head Cap Screw   91251A347   $10.59 per pack of 50     Yes
+    ?       #10 Washer      For #10 Screw, 18-8 Stainless Steel Washer      92141A011   $2.40 per pack of 100     Yes
+    ?       #6 Washer       For #6 Screw, 18-8 Stainless Steel Washer       92141A008   $1.20 per pack of 100     Yes
 
     Hex Nuts:
-    Qty     Description             Long Description:                                       Part #      Unit Price
-    5       4-40 nuts               Black Nylon 6/6 Hex Nut                                 94812A200   $5.63 per pack of 100
-    6       6-32 nuts               Zinc-Plated Steel Machine Screw Hex Nut                 90480A007   $1.16 per pack of 100
-    30      10-32 low-profile nuts  18-8 Stainless Steel Undersized Machine Screw Hex Nut   90730A411   $6.18 per pack of 100
+    Qty     Description             Long Description:                                       Part #      Unit Price                Purchased
+    5       4-40 nuts               Black Nylon 6/6 Hex Nut                                 94812A200   $8.33 per pack of 100     Yes
+    6       6-32 nuts               Zinc-Plated Steel Machine Screw Hex Nut                 90480A007   $1.41 per pack of 100     Yes
+    30      10-32 low-profile nuts  18-8 Stainless Steel Undersized Machine Screw Hex Nut   90730A411   $8.18 per pack of 100     Yes
 
     Misc:
-    Qty     Description                                 Long Description:                   Part #      Unit Price
-    12      3/8" Steel ball bearing                                                         96455K54    $5.87 per pack of 250
-    6       12cm 6-32 Zinc-plated steel threaded rod    (Sold in 6ft sections)              98914A007   $3.67 for 6ft
-
-
-### Servocity
-    Qty     Description                                             Part #          Unit Price
-    3       Hitec HS-311 servo (clockwise rotation)                 31311S          $7.99
+    Qty     Description                                 Long Description:                   Part #      Unit Price                Purchased
+    12      3/8" Steel ball bearing                                                         96455K54    $8.18 per pack of 250     Yes
+    6       12cm 6-32 Zinc-plated steel threaded rod    (Sold in 6ft sections)              98914A007   $4.31 for 6ft             Yes
 
 ### Ebay
     Qty     Description     Long Description                        Part #          Unit Price
@@ -63,6 +58,7 @@
 ### Amazon.com
     Qty     Description                                                         Part #          Unit Price
     1       SainSmart Sensor Shield Digital Analog Module V4                    B006TQ314G      $11.80
+    3       Hitec HS-311 servo (clockwise rotation)                             31311S          $7.99
 
 ### Jameco
     Qty     Description                                                         Part #          Unit Price
